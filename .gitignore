@@ -1,0 +1,13 @@
+# Local / agent scratch (never ship)
+.superpowers/
+docs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Test / tooling caches
+.phpunit.result.cache
+*.patch
